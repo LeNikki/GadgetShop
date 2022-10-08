@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GadgetShop/static/css/main.073c9b0a.css",
+    "main.js": "/GadgetShop/static/js/main.2ec5d903.js",
+    "static/js/787.886c2300.chunk.js": "/GadgetShop/static/js/787.886c2300.chunk.js",
+    "static/media/mainpic.png": "/GadgetShop/static/media/mainpic.17de58ee6edba682a6ee.png",
+    "index.html": "/GadgetShop/index.html",
+    "main.073c9b0a.css.map": "/GadgetShop/static/css/main.073c9b0a.css.map",
+    "main.2ec5d903.js.map": "/GadgetShop/static/js/main.2ec5d903.js.map",
+    "787.886c2300.chunk.js.map": "/GadgetShop/static/js/787.886c2300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ec5d903.js"
+  ]
+}
