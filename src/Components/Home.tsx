@@ -1,5 +1,6 @@
 import React from 'react'
 import main_img from './assets/mainpic.png'
+
 export default function Home() {
   return (
     <div>
