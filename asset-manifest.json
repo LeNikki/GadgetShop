@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GadgetShop/static/css/main.073c9b0a.css",
-    "main.js": "/GadgetShop/static/js/main.c1b304e0.js",
+    "main.css": "/GadgetShop/static/css/main.7def9093.css",
+    "main.js": "/GadgetShop/static/js/main.b8381a0e.js",
     "static/js/787.886c2300.chunk.js": "/GadgetShop/static/js/787.886c2300.chunk.js",
     "static/media/prod2.png": "/GadgetShop/static/media/prod2.81c73c0aae80d5ba9021.png",
     "static/media/prod3.png": "/GadgetShop/static/media/prod3.00a44fbfcc01b5dedf5d.png",
     "static/media/prod1.png": "/GadgetShop/static/media/prod1.fd3045c337f7ff0275c7.png",
     "static/media/mainpic.png": "/GadgetShop/static/media/mainpic.17de58ee6edba682a6ee.png",
     "index.html": "/GadgetShop/index.html",
-    "main.073c9b0a.css.map": "/GadgetShop/static/css/main.073c9b0a.css.map",
-    "main.c1b304e0.js.map": "/GadgetShop/static/js/main.c1b304e0.js.map",
+    "main.7def9093.css.map": "/GadgetShop/static/css/main.7def9093.css.map",
+    "main.b8381a0e.js.map": "/GadgetShop/static/js/main.b8381a0e.js.map",
     "787.886c2300.chunk.js.map": "/GadgetShop/static/js/787.886c2300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c1b304e0.js"
+    "static/css/main.7def9093.css",
+    "static/js/main.b8381a0e.js"
   ]
 }
