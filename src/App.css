@@ -1,38 +1,87 @@
-.App {
+
+body{
+  font-family: "Kodchasan", sans-serif;
+  font-size: 14px; 
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.App{
   text-align: center;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/*Body*/
+.container{
+  padding: 0 2em 0 2em;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/*header component: houses 3 sections: logo, nav-bar, search*/
+.header{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 2em 2em;
   align-items: center;
+}
+.n-logo{
+  width: 10em;
+  height: 4.5em;
+}
+
+.cart_icon, .search_icon{
+  width: 20px;
+  height: 20px;
+  margin: 12px;
+  padding: 10px;
+}
+.cart_icon:hover, .search_icon:hover{
+  background-color: #5e17eb2a;
+  border-radius: 50%;
+  
+}
+
+/*nav-bar (2nd section)*/
+.nav-bar ul{
+  width: 200px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-bar ul li:hover{
+  font-weight: 700;
+  color: #5E17EB;
+}
+/*search (3rd section)*/
+.search{
+  margin: 0;
+  padding:  0;
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
+.search-in{
+    height: 10px;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none;
+}
+/*search input box
+.search-in{
+  margin-top: 9px;
+  height: 20px;
+  padding: 0.3rem;
+  border-radius: 8px;
+  border-style: solid;
+  box-shadow: none;
+}*/
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

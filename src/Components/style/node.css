@@ -1,0 +1,20 @@
+.node-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100;
+    margin: 0 2em;
+}
+.hotPicks-item{
+    border-radius: 8px;
+    width: 230px;
+    height: 330px;
+    margin: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.prod-img{
+    width: 100px;
+    margin-top: 1rem;
+}
