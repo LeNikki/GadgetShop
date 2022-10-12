@@ -7,7 +7,7 @@ export default function Header (){
     return(
         <div className="header">
 
-            <img src={n_logo} className="n-logo" alt="n-logo"/>
+                <img src={n_logo} className="n-logo" alt="n-logo"/>
            
                 <nav className="nav-bar">
                     <ul>
